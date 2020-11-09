@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
  * 拦截器类（必须实现HandlerInterceptor接口）
  * 重写其中的类
  *
- * 登陆检查
+ * 登陆检查哈哈哈
  */
 public class LoginHandlerInterceptor implements HandlerInterceptor{
     //目标方法执行之前
